@@ -1,1 +1,0 @@
-# AstroCare modules package
